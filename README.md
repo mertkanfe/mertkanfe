@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer & Software Programming Instructor
 ------------------
 
-### 👨‍💻 Hızlı Bilgiler (Quick Stats)
+### 🚀 Current Focus & Career Goals
 * 🌍 I'm based in **Istanbul, Turkey**
 * 🔍 I'm currently **actively looking for new opportunities in Frontend & Full Stack Development**
 * 🚀 I'm focus on my **[Portfolio Website](http://mertkanfe.com)** and developing advanced React & Java projects.
