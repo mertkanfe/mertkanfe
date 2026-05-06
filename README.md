@@ -11,7 +11,7 @@ Frontend Developer & Software Programming Instructor
 * 🌱 I'm currently learning **advanced React patterns, Spring Boot, and refining my technical English.**
 * 👯 I’m looking to collaborate on **innovative web applications and open-source projects.**
 * 💬 Ask me about **web development, teaching programming logic, or software architectures!**
-* ⚡ Fun fact: **When I'm not coding, When I'm not coding, I'm probably doing historical research.**
+* ⚡ Fun fact: **When I'm not coding, I'm probably doing historical research.**
 * ✉️ You can contact me at **[mertkanfe@hotmail.com](mailto:mertkanfe@hotmail.com)**
 
 ### 📖 Hakkımda
@@ -21,6 +21,12 @@ Marmara Üniversitesi BÖTE mezunuyum. Son olarak **Pendik Teknoloji Merkezi'nde
 * **[Kişisel Portfolyo Sitem](http://mertkanfe.com):** Kendimi, kariyer geçmişimi ve deneyimlerimi modern web standartlarıyla sunduğum dijital kartvizitim.
 * **[Frontend Mini Projeler](https://mertkanfe.github.io/frontend-mini-projects/):** JavaScript, HTML5 ve CSS3 yeteneklerimi sergilediğim; To-Do List'ten Password Wizard'a kadar 15 farklı fonksiyonel mini projeyi tek bir vitrinde topladığım özel koleksiyonum.
 * **[Web Development Curriculum](https://github.com/mertkanfe/web-development-curriculum):** Öğrencilerim için hazırladığım, HTML/CSS/JS görevlerini ve temel yazılım prensiplerini içeren açık kaynaklı eğitim depom.
+
+### 📝 Medium Yazılarım
+* 📌 **[Teknik Mülakatta Karşınıza Çıkabilecek 30 Soru](https://medium.com/@mertkanfe)**
+* 📌 **[Temel GIT Komutları](https://medium.com/@mertkanfe)**
+* 📌 **[Visual Studio Code Klavye Kısayolları](https://medium.com/@mertkanfe)**
+* 📌 **[İnternet Nedir?](https://medium.com/@mertkanfe)**
 
 **Frontend Development**
 
@@ -71,6 +77,10 @@ Marmara Üniversitesi BÖTE mezunuyum. Son olarak **Pendik Teknoloji Merkezi'nde
 </a>
 </p>
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mertkanfe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkanfe&stroke=14b8a6&background=000000&ring=facc15&fire=facc15&currStreakNum=14b8a6&currStreakLabel=facc15&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+
 ### 📈 GitHub İstatistiklerim
 
 <p align="left">
@@ -79,9 +89,6 @@ Marmara Üniversitesi BÖTE mezunuyum. Son olarak **Pendik Teknoloji Merkezi'nde
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertkanfe&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Langs" />
 </p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mertkanfe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkanfe&stroke=14b8a6&background=000000&ring=facc15&fire=facc15&currStreakNum=14b8a6&currStreakLabel=facc15&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
 ---
 
