@@ -77,6 +77,10 @@ Marmara Üniversitesi BÖTE mezunuyum. Son olarak **Pendik Teknoloji Merkezi'nde
 </a>
 </p>
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mertkanfe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkanfe&stroke=14b8a6&background=000000&ring=facc15&fire=facc15&currStreakNum=14b8a6&currStreakLabel=facc15&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+
 ### 📈 GitHub İstatistiklerim
 
 <p align="left">
@@ -84,11 +88,6 @@ Marmara Üniversitesi BÖTE mezunuyum. Son olarak **Pendik Teknoloji Merkezi'nde
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertkanfe&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Langs" />
 </p>
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mertkanfe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkanfe&stroke=14b8a6&background=000000&ring=facc15&fire=facc15&currStreakNum=14b8a6&currStreakLabel=facc15&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
 
 
