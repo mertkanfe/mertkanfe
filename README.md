@@ -14,15 +14,15 @@ Full Stack Developer & Software Programming Instructor
 * ⚡ Fun fact: **When I'm not coding, I'm probably doing historical research.**
 * ✉️ You can contact me at **[mertkanfe@hotmail.com](mailto:mertkanfe@hotmail.com)**
 
-### 📖 Hakkımda
-Marmara Üniversitesi BÖTE mezunuyum. Son olarak **Pendik Teknoloji Merkezi'nde Yazılım Programlama Eğitmeni** olarak görev aldım. Şu anda edindiğim eğitmenlik ve teknik geliştirme tecrübelerini profesyonel bir yazılım ekibine taşımak amacıyla **Frontend / Full Stack Developer** pozisyonları için yeni fırsatları değerlendiriyorum. HTML, CSS, JavaScript, React ve Java (Spring Boot) ekosistemlerinde kullanıcı odaklı çözümler üretmeye odaklanıyorum.
+### 📖 About Me
+I hold a degree in Computer and Instructional Technologies Education from Marmara University. I am currently exploring new opportunities for Frontend / Full Stack Developer roles, aiming to bring my technical development skills and instructional experience to a professional software team. I focus on building user-centric solutions within the HTML, CSS, JavaScript, React, and Java (Spring Boot) ecosystems.
 
-### 🚀 Öne Çıkan Projelerim
-* **[Kişisel Portfolyo Sitem](http://mertkanfe.com):** Kendimi, kariyer geçmişimi ve deneyimlerimi modern web standartlarıyla sunduğum dijital kartvizitim.
-* **[Frontend Mini Projeler](https://mertkanfe.github.io/frontend-mini-projects/):** JavaScript, HTML5 ve CSS3 yeteneklerimi sergilediğim; To-Do List'ten Password Wizard'a kadar 15 farklı fonksiyonel mini projeyi tek bir vitrinde topladığım özel koleksiyonum.
-* **[Web Development Curriculum](https://github.com/mertkanfe/web-development-curriculum):** Öğrencilerim için hazırladığım, HTML/CSS/JS görevlerini ve temel yazılım prensiplerini içeren açık kaynaklı eğitim depom.
+### 🚀 Featured Projects
+* **[Personal Portfolio Website](http://mertkanfe.com):** My digital business card where I showcase my background, career history, and experiences using modern web standards.
+* **[Frontend Mini Projects](https://mertkanfe.github.io/frontend-mini-projects/):** A curated collection of 15 functional mini-projects—ranging from a To-Do List to a Password Generator—that demonstrate my JavaScript, HTML5, and CSS3 skills in a single showcase.
+* **[Web Development Curriculum](https://github.com/mertkanfe/web-development-curriculum):** An open-source educational repository I created for my students, featuring HTML/CSS/JS assignments and fundamental software engineering principles.
 
-### 📝 Medium Yazılarım
+### 📝 My Medium Articles (in Turkish)
 * 📌 **[Teknik Mülakatta Karşınıza Çıkabilecek 30 Soru](https://medium.com/@mertkanfe)**
 * 📌 **[Temel GIT Komutları](https://medium.com/@mertkanfe)**
 * 📌 **[Visual Studio Code Klavye Kısayolları](https://medium.com/@mertkanfe)**
@@ -77,7 +77,7 @@ Marmara Üniversitesi BÖTE mezunuyum. Son olarak **Pendik Teknoloji Merkezi'nde
 </a>
 </p>
 
-<b>My GitHub Stats</b>
+### 📈 My GitHub Stats
 
 <a href="http://www.github.com/mertkanfe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkanfe&stroke=14b8a6&background=000000&ring=facc15&fire=facc15&currStreakNum=14b8a6&currStreakLabel=facc15&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
@@ -93,4 +93,4 @@ Marmara Üniversitesi BÖTE mezunuyum. Son olarak **Pendik Teknoloji Merkezi'nde
 
 ---
 
-*"Sürekli gelişim, başarının tek anahtarıdır."* 🚀
+"Continuous improvement is the only key to success." 🚀
