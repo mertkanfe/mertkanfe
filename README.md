@@ -6,7 +6,7 @@ Full Stack Developer & Software Programming Instructor
 
 ### 🚀 Current Focus & Career Goals
 * 🌍 I'm based in **Istanbul, Turkey**
-* 🔍 I'm currently **actively looking for new opportunities in Frontend & Full Stack Development**
+* 🔍 I'm currently **actively looking for new opportunities in Full Stack Development**
 * 🚀 I'm focus on my **[Portfolio Website](http://mertkanfe.com)** and developing advanced React & Java projects.
 * 🌱 I'm currently learning **advanced React patterns, Spring Boot, and refining my technical English.**
 * 👯 I’m looking to collaborate on **innovative web applications and open-source projects.**
