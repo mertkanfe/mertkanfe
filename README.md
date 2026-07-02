@@ -22,6 +22,12 @@ I hold a degree in Computer and Instructional Technologies Education from Marmar
 * **[Frontend Mini Projects](https://mertkanfe.github.io/frontend-mini-projects/):** A curated collection of 15 functional mini-projects—ranging from a To-Do List to a Password Generator—that demonstrate my JavaScript, HTML5, and CSS3 skills in a single showcase.
 * **[Web Development Curriculum](https://github.com/mertkanfe/web-development-curriculum):** An open-source educational repository I created for my students, featuring HTML/CSS/JS assignments and fundamental software engineering principles.
 
+### 📝 My Medium Articles (in Turkish)
+* 📌 **[Teknik Mülakatta Karşınıza Çıkabilecek 30 Soru](https://medium.com/@mertkanfe)**
+* 📌 **[Temel GIT Komutları](https://medium.com/@mertkanfe)**
+* 📌 **[Visual Studio Code Klavye Kısayolları](https://medium.com/@mertkanfe)**
+* 📌 **[İnternet Nedir?](https://medium.com/@mertkanfe)**
+
 **Frontend Development**
 
 <p align="left">
